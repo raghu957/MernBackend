@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import sidebarModel from "./models/sidebarModel.js";
+import sidebarModel from "./sidebarModel.js";
 
 dotenv.config(); // Load environment variables
 
