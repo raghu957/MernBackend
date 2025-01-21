@@ -1,4 +1,4 @@
-import sidebarModel from "../models/sidebarModel.js";
+import sidebarModel from "./sidebarModel.js";
 
 // Get all sidebar items
 export const getSidebarItems = async (req, res) => {
