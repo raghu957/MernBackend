@@ -1,5 +1,5 @@
 import express from 'express';
-import { getSidebarItems, getSidebarItem,addSidebarItems } from '../controllers/sidebarcontroller.js';
+import { getSidebarItems, getSidebarItem,addSidebarItems } from './sidebarcontroller.js';
 
 const router = express.Router();
 
