@@ -131,7 +131,7 @@
 //     }
 // };
 
-import foodModel from "../models/foodModel.js";
+import foodModel from "./foodModel.js";
 import fs from 'fs'
 
 // all food list
